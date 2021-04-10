@@ -25,7 +25,6 @@ No, Mint did not.
 No, EL (*insert name here) did not.
 No, Debian did not.
 No, AlpineLinux did not.
-
 FreeBSD:
 No, FREEBSD 12.2
 
