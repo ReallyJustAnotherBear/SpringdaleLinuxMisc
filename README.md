@@ -34,6 +34,8 @@ ClearLinux Devs obv are pros!
 The rest of EFI appears to be a mess on many distros regarding my testing on this particular subject.
 Not even the #2 linux kernel contributor evidently knows EFI in all scenarios. 
 
+
+MacIntel Nerds Celebrate = 1
 WORKING BAsE Now ON EL* too! 
 *These hx are not included yet in this respin. If you want this wait please or:
 configure your NON-T2 enabled drives internal mac partitions.
