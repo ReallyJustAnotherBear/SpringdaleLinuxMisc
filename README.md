@@ -7,5 +7,6 @@ GenericHW
 ***
 
 Apple mac x86_64 hw
+*Yes, hxors enabled using clearLinux :) *
 ![](/intel-mac-testing.png)
 
