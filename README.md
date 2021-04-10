@@ -8,7 +8,7 @@ GenericHW
 
 Apple mac x86_64 hw
 *Yes, FYI. hx was enabled using clearLinux.
-ClearLinux was/is the ONLY one(LINUX) that I tried, that will by default boot/install using EFI on my latest intel macbook i7.
+ClearLinux was/is the ONLY one(LINUX) that I tried, that will by default boot/install using EFI on my latest intel macbookair i7.
 
 
 
