@@ -11,9 +11,6 @@ Apple mac x86_64 hw
 ClearLinux was/is the ONLY one(LINUX) that I tried, that will by default boot/install using EFI on the latest model intel macbookair i7.
 
 
-
-
-
 ```
 Which ones did not boot/install on my last intel generation macbook i7?
 FAILED  EFI INSTALL ATTEMPTS:
@@ -47,4 +44,6 @@ starting hacking up /EFI /loader* until you make it work!
 
 
 ![](/intel-mac-testing.png)
+
+
 
