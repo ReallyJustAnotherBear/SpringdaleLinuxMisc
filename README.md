@@ -31,7 +31,7 @@ What did boot and install?
 CLEAR LINUX.
 ClearLinux obv pros!
 
-The rest of EFI appears to be a mess on many distros regarding my testing.
+The rest of EFI appears to be a mess on many distros regarding my testing on this particular subject.
 
 
 WORKING BAsE!
