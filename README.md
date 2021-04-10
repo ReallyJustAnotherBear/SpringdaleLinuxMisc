@@ -34,7 +34,7 @@ ClearLinux obv pros!
 The rest of EFI appears to be a mess on many distros regarding my testing on this particular subject.
 
 
-WORKING BAsE Now ON EL* too!
+WORKING BAsE Now ON EL* too! 
 *These hx are not included yet in this respin. If you want this wait please or:
 configure your NON-T2 enabled drives internal mac partitions.
 install clearlinux. Get your ext. keyboard/mouse ready(no internal working)
