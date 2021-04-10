@@ -32,7 +32,7 @@ No, FREEBSD 12.2
 
 What did boot and install and made it easy for me to discover and explore?
 CLEAR LINUX.
-ClearLinux obv pros! 
+ClearLinux Devs obv are pros! 
 
 The rest of EFI appears to be a mess on many distros regarding my testing on this particular subject.
 
