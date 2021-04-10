@@ -1,3 +1,6 @@
+TEMPORARY VERBOSITY = 1
+
+
 Testing with EFI
 (*macboot on x86_64  currently in testing, see 2nd img )
 
