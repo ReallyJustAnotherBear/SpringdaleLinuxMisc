@@ -38,7 +38,7 @@ WORKING BAsE!
 *These hx are not included yet in this respin. If you want this wait please or:
 configure your NON-T2 enabled internal mac partitions.
 install clearlinux. Get your ext. keyboard/mouse ready(no internal working)
-copy over your EL8 based install to a /boot & /root
+copy over your EL8 based install to a /boot & /root to your pre-created/designated /dev/nv*p* partitions on the mac.
 starting hacking up /EFI /loader* until you make it work!
 ```
 
