@@ -7,6 +7,9 @@ GenericHW
 ***
 
 Apple mac x86_64 hw
-*Yes, hxors enabled using clearLinux :) *
+*Yes, FYI. hx was enabled using clearLinux.
+ClearLinux was/is the ONLY one(LINUX) that will boot/install using EFI on latest intel macs released.
+ClearLinux obv pros!
+
 ![](/intel-mac-testing.png)
 
