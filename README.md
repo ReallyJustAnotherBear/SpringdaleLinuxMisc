@@ -56,7 +56,7 @@ mv /lib/modules/$(uname -r)/kernel/drivers/hwmon/applesmc.ko* /root
 *move back later when your done testing, or change to a long term module blacklist, etc.
 
 starting hacking up /EFI /loader* until you make it work!
-```
+
 
 
 ![](/intel-mac-testing.png)
