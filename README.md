@@ -48,7 +48,12 @@ WORKING BAsE Now ON EL* too!
 configure your NON-T2 enabled drives internal mac partitions.
 install clearlinux. Get your ext. keyboard/mouse ready(no internal working)
 copy over your EL8 based install to a /boot & /root to your pre-created/designated /dev/nv*p* partitions on the mac.
-It is very likely you will need to disable applesmc module loading(applesmc.ko), i just temp moved the module out of /lib/modules/$(uname -r) while testing.
+It is very likely you will need to disable applesmc module loading(applesmc.ko).
+I just temp moved the module out of /lib/modules/$(uname -r) while testing.
+```
+mv /lib/modules/$(uname -r)/kernel/drivers/hwmon/applesmc.ko* /root
+```
+*move back later when your done testing, or change to a long term module blacklist, etc.
 
 starting hacking up /EFI /loader* until you make it work!
 ```
