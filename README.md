@@ -18,7 +18,6 @@ Apple mac x86_64 hw
 ClearLinux was/is the ONLY one(LINUX) that I tried, that will by default boot/install using EFI on the latest model intel macbookair i7.
 
 
-```
 Which ones did not boot/install on my last intel generation macbook i7?
 FAILED  EFI INSTALL ATTEMPTS:
 Linuxen:
@@ -30,9 +29,8 @@ No, AlpineLinux did not.
 FreeBSD:
 No, FREEBSD 12.2
 
-```
 
-```
+***
 
 What did boot and install and made it easy for me to discover and explore?
 CLEAR LINUX.
@@ -50,6 +48,7 @@ install clearlinux. Get your ext. keyboard/mouse ready(no internal working)
 copy over your EL8 based install to a /boot & /root to your pre-created/designated /dev/nv*p* partitions on the mac.
 It is very likely you will need to disable applesmc module loading(applesmc.ko).
 I just temp moved the module out of /lib/modules/$(uname -r) while testing.
+
 ```
 mv /lib/modules/$(uname -r)/kernel/drivers/hwmon/applesmc.ko* /root
 ```
