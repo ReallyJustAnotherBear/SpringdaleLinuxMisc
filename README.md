@@ -13,7 +13,7 @@ GenericHW
 
 ***
 
-Apple mac x86_64 hw
+The following only applies on particular Apple mac x86_64 hw, most all the linux/and freebsd work on other EFI systems I've tried.
 *Yes, FYI. hx was enabled using clearLinux.
 ClearLinux was/is the ONLY one(LINUX) that I tried, that will by default boot/install using EFI on the latest model intel macbookair i7.
 
