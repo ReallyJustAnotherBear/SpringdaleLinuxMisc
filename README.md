@@ -1,3 +1,5 @@
+These images are just for testing. They may or may not work for you.
+
 TEMPORARY VERBOSITY = 1
 
 
